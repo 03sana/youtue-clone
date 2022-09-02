@@ -224,7 +224,7 @@ main {
     display: flexbox;
 }
 
-video-details {
+.video-details {
     display: flex;
 }
 
